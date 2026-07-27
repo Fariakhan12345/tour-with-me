@@ -119,3 +119,14 @@ To run this project on your local machine, follow these steps:
 
 5. **Open your browser:**
    Navigate to [http://localhost:3000](http://localhost:3000) to see the application running.
+
+---
+
+## 🙋‍♀️ About Me
+
+This project was created by **Faria Khan**. 
+
+- **GitHub:** [@Fariakhan12345](https://github.com/Fariakhan12345)
+- **Role:** Full Stack Developer
+
+Feel free to explore my GitHub for more exciting projects!
