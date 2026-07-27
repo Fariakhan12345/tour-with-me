@@ -2,7 +2,7 @@
 
 > Your Ultimate AI-Powered Pakistan Tourism Guide
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://tour-with-me.vercel.app/) <!-- Replace with your actual Vercel link -->
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://tour-with-me-nu.vercel.app/)
 
 ## 📝 About The Project
 
@@ -17,7 +17,7 @@ Planning a trip in Pakistan can be overwhelming. Information is often scattered 
 
 ## 🔗 Live Deployed URL
 
-👉 **[Click Here to view the Live Application](https://tour-with-me.vercel.app/)** *(Please update this link with your exact Vercel URL)*
+👉 **[Click Here to view the Live Application](https://tour-with-me-nu.vercel.app/)**
 
 ---
 
@@ -77,16 +77,17 @@ Guidelines:
 
 ## 📸 Screenshots
 
-*(Before submitting, please take 3 screenshots of your deployed app and replace these placeholders!)*
+### 1. Home Page & Interactive Map
+![Home Page Screenshot](./public/screenshots/home.png)
 
-### 1. Home Page & Discovery
-![Home Page Screenshot](./public/screenshot-1.png)
+### 2. Discover Destinations
+![Destinations Screenshot](./public/screenshots/destinations.png)
 
-### 2. Destination Details & Map
-![Destination Details Screenshot](./public/screenshot-2.png)
+### 3. Traveler Stories
+![Stories Screenshot](./public/screenshots/stories.png)
 
-### 3. AI Assistant in Action
-![AI Assistant Screenshot](./public/screenshot-3.png)
+### 4. Travel Guides & Tips
+![Guides Screenshot](./public/screenshots/guides.png)
 
 ---
 
